@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oskareggert
-- 👀 I’m interested in technology, business, entrepreneurship, and 
-- 🌱 I’m currently learning Web development with The Odin Project and general computer science at Harvard's CS50 course
+- 👀 I’m interested in technology, business, entrepreneurship, and learning
+- 🌱 I’m currently learning web development with The Odin Project and general computer science with Harvard's CS50 course
 - 📫 How to reach me (https://twitter.com/OskarEggert)
 
 <!---
